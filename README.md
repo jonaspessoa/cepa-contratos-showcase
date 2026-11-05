@@ -2,7 +2,7 @@
 
 **Gestão de contratos educacionais, modelos e acompanhamento da assinatura em uma aplicação web.**
 
-[Abrir demonstração interativa](https://sistema-cepa-contratos.vercel.app/demo) · [Portfólio de Jonas Pessoa](https://jonascepa09-star.github.io/jonaspessoa.github.io/)
+[Abrir demonstração interativa](https://sistema-cepa-contratos.vercel.app/demo) · [Portfólio de Jonas Pessoa](https://jonaspessoa.github.io/)
 
 ![Painel da demo de contratos com indicadores e filtros](assets/demo-painel.png)
 
@@ -63,4 +63,4 @@ A demo pública estava acessível em **05/11/2026**. Foram conferidos a identifi
 
 ## Autoria
 
-**Jonas Pessoa** · [GitHub](https://github.com/jonascepa09-star) · [Portfólio](https://jonascepa09-star.github.io/jonaspessoa.github.io/)
+**Jonas Pessoa** · [GitHub](https://github.com/jonaspessoa) · [Portfólio](https://jonaspessoa.github.io/)
